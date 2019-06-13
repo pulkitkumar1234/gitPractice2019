@@ -1,1 +1,4 @@
-mylog.txt
+/mylog.txt
+*.log
+*.txt
+ignoreFloder/
